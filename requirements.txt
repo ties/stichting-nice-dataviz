@@ -1,3 +1,4 @@
 altair
 jupyterlab
 pandas
+altair_saver
